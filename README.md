@@ -8,6 +8,8 @@ In this project:
 
 The first part of the project constitutes the meme caption generator. This further includes two parts:
 1. Encoder: To embed image data and its corresponding label 
-2. Decoder: Generates the meme caption text using above embedding
+2. Decoder: Generates the meme caption text using the above embedding
 
 The second part of the model constitutes the hilarity classifier and relevance classifier.
+
+This project was done as a part of the Purdue CS 57700: Natural Language Processing course. This repo includes equal contributions from my teammates: Jawad A. Raheel, Muhammad Abubakar. 
